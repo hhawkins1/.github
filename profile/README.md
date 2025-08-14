@@ -1,21 +1,21 @@
-#  Hi, I'm Hudson (hhawkins1) 👋
+# 👋 Hi, I'm Hudson (hhawkins1)
 
 **Senior Web Developer & Full-Stack eLearning Platform Specialist**  
 Designing, integrating, and scaling learning and enterprise web solutions across government, education, compliance, and corporate sectors.
 
 ---
 
-###  Highlights
-- Deployed and maintained multi-client government LMS ecosystems (e.g. Parliament of Victoria, NZ Dept of Corrections)
-- Delivered high-compliance eLearning for justice, defense, and health sectors (ADF, Victoria Police, Cancer Australia)
-- Integrated SCORM / xAPI / cmi5 pipelines with leading authoring tools (Storyline, Captivate, dominKnow, Adapt)
-- Led deployments of PeopleFluent and X2CRM systems for enterprise authors and platforms
-- Optimized analytics pipelines with PostgreSQL, MySQL/MariaDB, MongoDB for scalable LRS data reporting
-- Built full-stack solutions using modern PHP & JS frameworks (Laravel, Symfony, React, Vue) in hybrid-cycle environments
+### 🔹 Highlights
+- **Government LMS Ecosystems** – Deployed and maintained multi-client learning platforms for Parliament of Victoria, NZ Dept of Corrections, and other regulated environments.
+- **High-Compliance eLearning Delivery** – Justice, defense, and health sector projects (Victoria Police, ADF, Cancer Australia) with strict governance and content lifecycle management.
+- **Toyota TSSC Training Simulation** – Led development of a real-time online simulation allowing distributed teams to collaboratively model and identify operational waste (mura/muda).
+- **X2CRM Platform Development** – Direct collaboration with vendor to implement and extend CRM capabilities for enterprise use.
+- **PeopleFluent LMS Deployment & Customization** – Managed implementation and tailored configuration for multiple client rollouts.
+- **Standards & Integration Expertise** – SCORM 1.2 & 2004, xAPI, cmi5, LRS workflows, multi-tool content pipelines.
 
 ---
 
-###  Tech Stack & Tools
+### 🔹 Tech Stack & Tools
 
 | Category               | Tools & Technologies                                                          |
 |------------------------|--------------------------------------------------------------------------------|
@@ -23,34 +23,28 @@ Designing, integrating, and scaling learning and enterprise web solutions across
 | **Databases**          | PostgreSQL • MySQL / MariaDB • MongoDB                                         |
 | **eLearning Standards**| SCORM 1.2 & 2004 • xAPI • cmi5 • LRS workflows                                |
 | **Authoring Tools**    | Articulate Storyline & Rise • Adobe Captivate • dominKnow • Adapt Framework • GVM |
-| **DevOps / Stack**     | Dev → Deploy → Support → Iterate pipelines • Hyper-V • Ubuntu / Windows Server • Docker? (if applicable) |
+| **DevOps / Stack**     | Hyper-V • Ubuntu / Windows Server • Docker (if applicable)                     |
 | **Version Control & Process** | Git • SVN • Agile / LLAMA / hybrid methodologies                          |
 
 ---
 
-###  Featured Work
-- **[Global Vision Media / Platform Delivery]** – Scaled LMS environments across regulated industries.
-- **[X2CRM collaboration]** – Partnered directly with vendors to customize CRM platform for enterprise users.
-- **[SCORM / xAPI pipeline architecture]** – Designed data extraction and reporting systems for learning analytics.
-
-*(Add links to repos or case studies here when possible.)*
-
----
-
-###  GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hhawkins1&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hhawkins1&layout=compact)
-
----
-
-###  Connect with Me
-
--  [LinkedIn](https://www.linkedin.com/in/hudson-hawkins-7a613a18b/)
--  [Company / Portfolio](https://www.globalvision.com.au)
-
-> "I’m just doing my thing" — Hudson
+### 🔹 Notable Clients
+- Parliament of Victoria / Department of Parliamentary Services
+- NZ Department of Corrections
+- Toyota TSSC
+- Victoria Police
+- Australian Defence Force (ADF)
+- Cancer Australia
+- Essential Energy
+- PAMU (New Zealand)
+- Department of Justice Regulation
+- Central Queensland University (CQU)
+- Housing Industries Association (HIA)
 
 ---
 
-*(Optional: Add a guestbook with GitHub Actions, accessibility-focused badges, or an image/avatar with alt text.)*
+### 🔹 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-hawkins-7a613a18b/)  
+[![Global Vision Media](https://img.shields.io/badge/Company-Global%20Vision%20Media-blue)](https://www.globalvision.com.au)
+
+---
