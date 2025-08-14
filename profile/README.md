@@ -65,39 +65,27 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- ADF -->
-  <a href="https://www.defence.gov.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/adf.svg" alt="Australian Defence Force" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
   <!-- Cancer Australia -->
   <a href="https://www.canceraustralia.gov.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/cancer-australia.svg" alt="Cancer Australia" height="60">
+    <img src="ca-logo.png" alt="Cancer Australia" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Essential Energy -->
   <a href="https://www.essentialenergy.com.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/essential-energy.svg" alt="Essential Energy" height="60">
+    <img src="ee.svg" alt="Essential Energy" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Pāmu (Landcorp) -->
   <a href="https://www.pamunewzealand.com" target="_blank" rel="noopener">
-    <img src="./assets/clients/pamu.svg" alt="Pāmu (Landcorp) New Zealand" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Vic Dept of Justice & Community Safety (Regulation) -->
-  <a href="https://www.justice.vic.gov.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/djcsvic.svg" alt="Department of Justice (Vic) – Regulation" height="60">
+    <img src="pamu.svg" alt="Pāmu (Landcorp) New Zealand" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- CQU -->
   <a href="https://www.cqu.edu.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/cqu.svg" alt="Central Queensland University (CQU)" height="60">
+    <img src="cqu-web-logo" alt="Central Queensland University (CQU)" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
