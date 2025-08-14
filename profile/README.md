@@ -43,31 +43,25 @@ Designing, integrating, and scaling learning and enterprise web solutions across
 <p align="center">
   <!-- Parliament of Victoria -->
   <a href="https://parliament.vic.gov.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/parliament-victoria.svg" alt="Parliament of Victoria" height="60">
+    <img src="pov.jpg" alt="Parliament of Victoria" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Toyota TSSC -->
   <a href="https://tssc.com.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/toyota-tssc.svg" alt="Toyota TSSC" height="60">
+    <img src="tssc-logo-3-1.png" alt="Toyota TSSC" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Transworld Business Advisors -->
   <a href="https://tworld.com" target="_blank" rel="noopener">
-    <img src="./assets/clients/transworld.svg" alt="Transworld Business Advisors" height="60">
+    <img src="TBALogo_origin.webp" alt="Transworld Business Advisors" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- NZ Department of Corrections -->
   <a href="https://www.corrections.govt.nz" target="_blank" rel="noopener">
-    <img src="./assets/clients/nz-corrections.svg" alt="NZ Department of Corrections" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Victoria Police -->
-  <a href="https://www.police.vic.gov.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/victoria-police.svg" alt="Victoria Police" height="60">
+    <img src="nzdoc.jpg" alt="NZ Department of Corrections" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
