@@ -79,7 +79,7 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Cancer Australia -->
   <a href="https://www.canceraustralia.gov.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/ca-logo.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/ca-logo-reversed.png">
       <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/ca-logo.png" alt="Cancer Australia" height="68" loading="lazy">
     </picture>
   </a>
