@@ -38,8 +38,6 @@ Designing, integrating, and scaling learning and enterprise web solutions across
 ---
 
 ## 🌐 Key Clients
-<h2 align="center">Key Clients & Engagements</h2>
-<h2 align="center">Key Clients &amp; Engagements</h2>
 
 <p align="center">
   <!-- Parliament of Victoria -->
