@@ -108,14 +108,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   &nbsp;&nbsp;&nbsp;
 
   <!-- GWA Group -->
-  <a href="https://www.gwagroup.com.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/gwa-group.svg" alt="GWA Group" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Diamantina Power Station -->
-  <a href="https://www.diamantinapower.com.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/diamantina-power.svg" alt="Diamantina Power Station" height="60">
+  <a href="https://1rail.com.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/gwa-group.svg" alt="One Rail" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
