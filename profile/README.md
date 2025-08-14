@@ -85,7 +85,7 @@ Designing, integrating, and scaling learning and enterprise web solutions across
 
   <!-- CQU -->
   <a href="https://www.cqu.edu.au" target="_blank" rel="noopener">
-    <img src="cqu-web-logo" alt="Central Queensland University (CQU)" height="60">
+    <img src="cqu-web-logo.svg" alt="Central Queensland University (CQU)" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
