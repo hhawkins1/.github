@@ -43,8 +43,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Parliament of Victoria -->
   <a href="https://parliament.vic.gov.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/pov.jpg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/pov.jpg" alt="Parliament of Victoria" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/pov.jpg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/pov.jpg" alt="Parliament of Victoria" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -52,8 +52,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Toyota TSSC -->
   <a href="https://tssc.com.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/tsscau-logo-old.png">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/tssc-logo-3-1.png" alt="Toyota TSSC" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/tsscau-logo-old.png">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/tssc-logo-3-1.png" alt="Toyota TSSC" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -61,8 +61,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Transworld Business Advisors -->
   <a href="https://tworld.com" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/TBALogo_origin.webp">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/TBALogo_origin.webp" alt="Transworld Business Advisors" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/TBALogo_origin.webp">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/TBALogo_origin.webp" alt="Transworld Business Advisors" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -70,8 +70,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- NZ Department of Corrections -->
   <a href="https://www.corrections.govt.nz" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/nzdoc.jpg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/nzdoc.jpg" alt="NZ Department of Corrections" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/nzdoc.jpg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/nzdoc.jpg" alt="NZ Department of Corrections" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -79,8 +79,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Cancer Australia -->
   <a href="https://www.canceraustralia.gov.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/ca-logo-reversed.png">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/ca-logo.png" alt="Cancer Australia" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/ca-logo-reversed.png">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/ca-logo.png" alt="Cancer Australia" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -88,8 +88,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Essential Energy -->
   <a href="https://www.essentialenergy.com.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/ee.svg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/ee.svg" alt="Essential Energy" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/ee.svg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/ee.svg" alt="Essential Energy" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -97,8 +97,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Pāmu (Landcorp) -->
   <a href="https://www.pamunewzealand.com" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/pamu-light.svg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/pamu.svg" alt="Pāmu (Landcorp) New Zealand" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/pamu-light.svg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/pamu.svg" alt="Pāmu (Landcorp) New Zealand" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -106,8 +106,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- CQU -->
   <a href="https://www.cqu.edu.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/cqu-web-logo.svg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/cqu-web-logo.svg" alt="Central Queensland University (CQU)" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/cqu-web-logo.svg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/cqu-web-logo.svg" alt="Central Queensland University (CQU)" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -115,8 +115,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- HIA -->
   <a href="https://hia.com.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/hia-logo.svg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/hia-logo.svg" alt="Housing Industry Association (HIA)" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/hia-logo.svg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/hia-logo.svg" alt="Housing Industry Association (HIA)" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -124,8 +124,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- MDA National -->
   <a href="https://www.mdanational.com.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/mda.png">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/mda.png" alt="MDA National" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/mda.png">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/mda.png" alt="MDA National" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -133,8 +133,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Activ -->
   <a href="https://www.activ.asn.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/Activ.jpg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/Activ.jpg" alt="Activ" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/Activ.jpg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/Activ.jpg" alt="Activ" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -142,8 +142,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- One Rail -->
   <a href="https://1rail.com.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/one-rail-australia.svg">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/one-rail-australia.svg" alt="One Rail Australia" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/one-rail-australia-reverse.svg">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/one-rail-australia.svg" alt="One Rail Australia" height="68" loading="lazy">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -151,8 +151,8 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Dept of Education (Vic) -->
   <a href="https://www.education.vic.gov.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/doe-old.png">
-      <img src="https://raw.githubusercontent.com/hhawkins1/.github/ece317e548226c63d4abb1de1084ff39c12cf29c/profile/assets/doe.png" alt="Department of Education (Vic)" height="68" loading="lazy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/doe-old.png">
+      <img src="https://raw.githubusercontent.com/hhawkins1/.github/589a125e3b976d77b5fae4eb20dfa8a64e5931e4/profile/assets/doe.png" alt="Department of Education (Vic)" height="68" loading="lazy">
     </picture>
   </a>
 </p>
