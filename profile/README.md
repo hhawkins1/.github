@@ -38,8 +38,110 @@ Designing, integrating, and scaling learning and enterprise web solutions across
 ---
 
 ## 🌐 Key Clients
-Parliament of Victoria / DPS • NZ Dept of Corrections • Toyota TSSC • Victoria Police • ADF  
-Cancer Australia • Essential Energy • PAMU (NZ) • Dept of Justice Regulation • CQU • HIA
+<h2 align="center">Key Clients & Engagements</h2>
+
+<p align="center">
+  <!-- Parliament of Victoria -->
+  <a href="https://parliament.vic.gov.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/parliament-victoria.svg" alt="Parliament of Victoria" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Toyota TSSC -->
+  <a href="https://tssc.com.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/toyota-tssc.svg" alt="Toyota TSSC" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Transworld Business Advisors -->
+  <a href="https://tworld.com" target="_blank" rel="noopener">
+    <img src="./assets/clients/transworld.svg" alt="Transworld Business Advisors" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- NZ Department of Corrections -->
+  <a href="https://www.corrections.govt.nz" target="_blank" rel="noopener">
+    <img src="./assets/clients/nz-corrections.svg" alt="NZ Department of Corrections" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Victoria Police -->
+  <a href="https://www.police.vic.gov.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/victoria-police.svg" alt="Victoria Police" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- ADF -->
+  <a href="https://www.defence.gov.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/adf.svg" alt="Australian Defence Force" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Cancer Australia -->
+  <a href="https://www.canceraustralia.gov.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/cancer-australia.svg" alt="Cancer Australia" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Essential Energy -->
+  <a href="https://www.essentialenergy.com.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/essential-energy.svg" alt="Essential Energy" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Pāmu (Landcorp) -->
+  <a href="https://www.pamunewzealand.com" target="_blank" rel="noopener">
+    <img src="./assets/clients/pamu.svg" alt="Pāmu (Landcorp) New Zealand" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Vic Dept of Justice & Community Safety (Regulation) -->
+  <a href="https://www.justice.vic.gov.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/djcsvic.svg" alt="Department of Justice (Vic) – Regulation" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- CQU -->
+  <a href="https://www.cqu.edu.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/cqu.svg" alt="Central Queensland University (CQU)" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- HIA -->
+  <a href="https://hia.com.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/hia.svg" alt="Housing Industry Association (HIA)" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- MDANational -->
+  <a href="https://www.mdanational.com.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/mdanational.svg" alt="MDA National" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Activ (PeopleFluent systems) -->
+  <a href="https://www.activ.asn.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/activ.svg" alt="Activ" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- GWA Group -->
+  <a href="https://www.gwagroup.com.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/gwa-group.svg" alt="GWA Group" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Diamantina Power Station -->
+  <a href="https://www.diamantinapower.com.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/diamantina-power.svg" alt="Diamantina Power Station" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Dept of Education (Vic) -->
+  <a href="https://www.education.vic.gov.au" target="_blank" rel="noopener">
+    <img src="./assets/clients/education-vic.svg" alt="Department of Education (Vic)" height="60">
+  </a>
+</p>
 
 ---
 
