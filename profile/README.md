@@ -43,79 +43,79 @@ Designing, integrating, and scaling learning and enterprise web solutions across
 <p align="center">
   <!-- Parliament of Victoria -->
   <a href="https://parliament.vic.gov.au" target="_blank" rel="noopener">
-    <img src="pov.jpg" alt="Parliament of Victoria" height="60">
+    <img src="assets/pov.jpg" alt="Parliament of Victoria" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Toyota TSSC -->
   <a href="https://tssc.com.au" target="_blank" rel="noopener">
-    <img src="tssc-logo-3-1.png" alt="Toyota TSSC" height="60">
+    <img src="assets/tssc-logo-3-1.png" alt="Toyota TSSC" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Transworld Business Advisors -->
   <a href="https://tworld.com" target="_blank" rel="noopener">
-    <img src="TBALogo_origin.webp" alt="Transworld Business Advisors" height="60">
+    <img src="assets/TBALogo_origin.webp" alt="Transworld Business Advisors" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- NZ Department of Corrections -->
   <a href="https://www.corrections.govt.nz" target="_blank" rel="noopener">
-    <img src="nzdoc.jpg" alt="NZ Department of Corrections" height="60">
+    <img src="assets/nzdoc.jpg" alt="NZ Department of Corrections" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Cancer Australia -->
   <a href="https://www.canceraustralia.gov.au" target="_blank" rel="noopener">
-    <img src="ca-logo.png" alt="Cancer Australia" height="60">
+    <img src="assets/ca-logo.png" alt="Cancer Australia" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Essential Energy -->
   <a href="https://www.essentialenergy.com.au" target="_blank" rel="noopener">
-    <img src="ee.svg" alt="Essential Energy" height="60">
+    <img src="assets/ee.svg" alt="Essential Energy" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Pāmu (Landcorp) -->
   <a href="https://www.pamunewzealand.com" target="_blank" rel="noopener">
-    <img src="pamu.svg" alt="Pāmu (Landcorp) New Zealand" height="60">
+    <img src="assets/pamu.svg" alt="Pāmu (Landcorp) New Zealand" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- CQU -->
   <a href="https://www.cqu.edu.au" target="_blank" rel="noopener">
-    <img src="cqu-web-logo.svg" alt="Central Queensland University (CQU)" height="60">
+    <img src="assets/cqu-web-logo.svg" alt="Central Queensland University (CQU)" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- HIA -->
   <a href="https://hia.com.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/hia.svg" alt="Housing Industry Association (HIA)" height="60">
+    <img src="assets/hia-logo.svg" alt="Housing Industry Association (HIA)" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- MDANational -->
   <a href="https://www.mdanational.com.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/mdanational.svg" alt="MDA National" height="60">
+    <img src="assets/mda.png" alt="MDA National" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Activ (PeopleFluent systems) -->
   <a href="https://www.activ.asn.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/activ.svg" alt="Activ" height="60">
+    <img src="assets/Active.jpg" alt="Activ" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- GWA Group -->
+  <!-- One Rail -->
   <a href="https://1rail.com.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/gwa-group.svg" alt="One Rail" height="60">
+    <img src="assets/one-rail-australia.svg" alt="One Rail" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <!-- Dept of Education (Vic) -->
   <a href="https://www.education.vic.gov.au" target="_blank" rel="noopener">
-    <img src="./assets/clients/education-vic.svg" alt="Department of Education (Vic)" height="60">
+    <img src="assets/doe.png" alt="Department of Education (Vic)" height="60">
   </a>
 </p>
 
