@@ -54,7 +54,7 @@ Designing, integrating, and scaling learning and enterprise web solutions across
   <!-- Toyota TSSC -->
   <a href="https://tssc.com.au" target="_blank" rel="noopener">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/3cdac5d637874d16e7c013bf37be7556dbd72808/profile/assets/tsscau-logo%402x.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhawkins1/.github/f744f952383c86af8536fcd27f15360696e4854a/profile/assets/tsscau-logo-old.png">
       <img src="https://raw.githubusercontent.com/hhawkins1/.github/3cdac5d637874d16e7c013bf37be7556dbd72808/profile/assets/tssc-logo-3-1.png" alt="Toyota TSSC" height="68" loading="lazy">
     </picture>
   </a>
